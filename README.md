@@ -18,8 +18,8 @@ To set up and run the project locally, follow these steps:
 
    ```bash
    
-   git clone git@github.com:ryanencoded/bodydouble-pwa.git
-   cd bodydouble-pwa
+   git clone git@github.com:ryanencoded/aws-serverless-starter-app.git
+   cd aws-serverless-starter-app
 
     ```
 
@@ -61,7 +61,7 @@ The primary objective of this codebase is to showcase proficiency in the followi
 The project follows a specific folder structure for better organization:
 
 ```bash
-bodydouble-pwa/
+aws-serverless-starter-app/
 |-- src/
 |-- public/
 |-- terraform/
